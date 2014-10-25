@@ -1,0 +1,189 @@
+/* Smartphones ----------- */
+@media only screen and (max-width: 760px) {
+  #some-element { display: none; }
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+	max-width: 100%;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+#text
+{
+	margin-top: 10px;
+    background-image: url('../img/backround_text.png');
+    color: white;
+    width: auto;
+    min-height: auto;
+    text-align: left;
+    border: 3px solid black;
+    margin-left: auto;
+    padding: 2px;
+	
+}
+
+#Home
+{
+	background-color: #000000;
+    /* IMG Sourced From http://minecraftinspiration.blogspot.ie/2011/05/blog-post.html 12/11/2012 @ 1800 */
+    background-image: url('../img/background_page.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:1000px 800px;
+    background-position: center top;
+    font-family: "Helvetica", arial, sans-serif;
+    border: none;
+}
+
+#Modes
+{
+	background-color: #000000;
+    /* IMG Sourced From http://minecraftinspiration.blogspot.ie/2011/05/blog-post.html 12/11/2012 @ 1800 */
+    background-image: url('../img/background_page.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:1000px 800px;
+    background-position: center top;
+    font-family: "Helvetica", arial, sans-serif;
+    border: none;
+}
+
+#ModesContent
+{
+	color:white;
+	width: auto;
+    min-height: auto;
+    text-align: left;
+}
+
+#RecipesContent
+{
+	color:white;
+	width: auto;
+    min-height: auto;
+    text-align: left;
+	
+}
+
+
+#Recipes
+{
+	background-color: #000000;
+    /* IMG Sourced From http://minecraftinspiration.blogspot.ie/2011/05/blog-post.html 12/11/2012 @ 1800 */
+    background-image: url('../img/background_page.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:1000px 800px;
+    background-position: center top;
+    font-family: "Helvetica", arial, sans-serif;
+    border: none;
+}
+
+#MineCon
+{
+	background-color: #000000;
+    /* IMG Sourced From http://minecraftinspiration.blogspot.ie/2011/05/blog-post.html 12/11/2012 @ 1800 */
+    background-image: url('../img/background_page.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:1000px 800px;
+    background-position: center top;
+    font-family: "Helvetica", arial, sans-serif;
+    border: none;
+}
+
+#Mods
+{
+	background-color: #000000;
+    /* IMG Sourced From http://minecraftinspiration.blogspot.ie/2011/05/blog-post.html 12/11/2012 @ 1800 */
+    background-image: url('../img/background_page.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:1000px 800px;
+    background-position: center top;
+    font-family: "Helvetica", arial, sans-serif;
+    border: none;
+}
+
+#container {
+    padding-top: 50px;
+    margin: auto;
+    min-width: auto;
+    max-width: auto;
+}
+
+#right-col-header {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    padding: auto;
+    font-family:"Helvetica", arial, sans-serif;
+	text-align: center;
+}
+
+#right-col-text {
+    margin-top: auto;
+    background-image: url('../img/backround_text.png');
+    color: white;
+    width: auto;
+    min-height: auto;
+    text-align: left;
+    border: 3px solid black;
+    margin-left: auto;
+    padding: 2px;
+}
+
+#right-col-text img {
+    float: left;
+    margin: auto;
+}
+
+#right-col-text iframe {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#right-column {
+    float: right;
+    background-color: #CCCCCC;
+    background-image: url('../img/background_content.jpg');
+    width: 650px;
+    min-height: 500px;
+    border: 5px solid #663300;
+}
+
+#slideshowContainer {
+    margin-top: auto;
+    text-align: left;
+    margin-bottom: auto;
+}
+
+#slideshow {
+    border: 3px solid black;
+}
+
+#viaLink {
+    font-size: 0.8em;
+    text-align: right;
+}
+
+#Recipe
+{
+    margin-left: 0px;
+}
+
